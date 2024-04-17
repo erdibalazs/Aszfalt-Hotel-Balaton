@@ -1,4 +1,4 @@
-Ez a kis program egy iskolai feladat beadandó feladataként készült.
+Ez a kis program egy iskolai beadandó feladataként készült.
 
 Szálloda Szobafoglalási Rendszer
 Ez a program egy egyszerű szálloda szobafoglalási rendszert valósít meg Pythonban. A rendszer lehetővé teszi a szobák kezelését, foglalások létrehozását, lemondását és listázását egy interaktív felhasználói interfészen keresztül.
