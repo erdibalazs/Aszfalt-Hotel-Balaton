@@ -2,6 +2,7 @@ Ez a kis program egy iskolai feladat beadandó feladataként készült.
 
 Szálloda Szobafoglalási Rendszer
 Ez a program egy egyszerű szálloda szobafoglalási rendszert valósít meg Pythonban. A rendszer lehetővé teszi a szobák kezelését, foglalások létrehozását, lemondását és listázását egy interaktív felhasználói interfészen keresztül.
+A program az indítás után automatikusan létrehozza a szobákat (101,102,103). Ezeket a szobákat kell használni a foglalások kezelésekor.
 
 Funkciók
 Szobák kezelése: Szobák hozzáadása a szállodai kínálathoz.
